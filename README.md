@@ -1,6 +1,6 @@
 # Brain Sequencer
 
-## Designed the following circuit
+## Designed the following circuit:
 ![alt text](https://github.com/sarausama/Brain-Sequencer/blob/master/circuit.jfif)
 
 ## How it works
